@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "177264652294",
+    "project_id": "stotppub",
+    "storage_bucket": "stotppub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177264652294:android:70c466417c899b2b619387",
+        "android_client_info": {
+          "package_name": "com.dash.stotppub.upc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177264652294-13fopj3dkih62ld5uf8im3u50knbofqn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPQEAYvsKjGdbaE45bt0zRDR8qvaZwZPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177264652294-13fopj3dkih62ld5uf8im3u50knbofqn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "177264652294-1mkuqkldpuprspevb0pk3qqpvsjfv6lr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dash.stotppub.upc"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
